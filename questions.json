@@ -1,0 +1,110 @@
+[
+    {
+        "id": "q1",
+        "text": "Which of the following statement is correct for AngularJS?",
+        "type": "single-select",
+        "options": [
+            "AngularJS is an HTML framework",
+            "AngularJS is a Java framework",
+            "AngularJS is a JavaScript framework",
+            "AngularJS is a SQL framework"
+        ]
+    },
+    {
+        "id": "q2",
+        "text": "On which of the Architectural pattern AngularJS is based?",
+        "type": "single-select",
+        "options": [
+            "Observer Pattern",
+            "Decorator pattern",
+            "MVC Architecture pattern",
+            "MVVM Architectural pattern"
+        ]
+    },
+    {
+        "id": "q3",
+        "text": "AngularJS is perfect for?",
+        "type": "single-select",
+        "options": [
+            "SPAs",
+            "MPAs",
+            "DPAs",
+            "CPAs"
+        ]
+    },
+    {
+        "id": "q4",
+        "text": "Which of the following is an advantage of AngularJS?",
+        "type": "single-select",
+        "options": [
+            "AngularJS code is unit testable",
+            "AngularJS provides reusable components",
+            "AngularJS uses dependency injection and makes use of separation of concerns",
+            "All of the above"
+        ]
+    },
+    {
+        "id": "q5",
+        "text": "Do AngularJS provide reusable components?",
+        "type": "single-select",
+        "options": [
+            "Yes",
+            "No"
+        ]
+    },
+    {
+        "id": "q6",
+        "text": "Which of the following statement is true about the lowercase filter?",
+        "type": "single-select",
+        "options": [
+            "The lowercase filter converts a text to lower case text",
+            "The lowercase filter is a function that takes text as input",
+            "Both of the above",
+            "None of the above"
+        ]
+    },
+    {
+        "id": "q7",
+        "text": "Which of the following statement is true about $dirty flag?",
+        "type": "single-select",
+        "options": [
+            "$dirty flag is used to state that value has been changed",
+            "$dirty flag is used to state that the form has invalid data",
+            "Both of the above",
+            "None of the above"
+        ]
+    },
+    {
+        "id": "q8",
+        "text": "What is the use of Angular Controllers in the application?",
+        "type": "single-select",
+        "options": [
+            "Angular controllers are used for controlling the data",
+            "Angular controllers are used for displaying the data",
+            "Both of the above are correct",
+            "None of the above is correct"
+        ]
+    },
+    {
+        "id": "q9",
+        "text": "Which of the following syntax is used to create a module in AngularJS?",
+        "type": "single-select",
+        "options": [
+            "var myModule= angular.module();",
+            "var myModule= new Module();",
+            "module('app', []);",
+            "None of the above"
+        ]
+    },
+    {
+        "id": "q10",
+        "text": "Which of the following is used to share data between controller and view in AngularJS?",
+        "type": "single-select",
+        "options": [
+            "using Model",
+            "using services",
+            "using factory",
+            "using $scope"
+        ]
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "id": "q1",
+        "ans": "AngularJS is a JavaScript framework"
+    },
+    {
+        "id": "q2",
+        "ans": "MVVM Architectural pattern"
+    },
+    {
+        "id": "q3",
+        "ans": "SPAs"
+    },
+    {
+        "id": "q4",
+        "ans": "All of the above"
+    },
+    {
+        "id": "q5",
+        "ans": "Yes"
+    },
+    {
+        "id": "q6",
+        "ans": "The lowercase filter converts a text to lower case text"
+    },
+    {
+        "id": "q7",
+        "ans": "$dirty flag is used to state that value has been changed"
+    },
+    {
+        "id": "q8",
+        "ans": "Angular controllers are used for controlling the data"
+    },
+    {
+        "id": "q9",
+        "ans": "module('app', []);"
+    },
+    {
+        "id": "q10",
+        "ans": "using services"
+    }
+]
